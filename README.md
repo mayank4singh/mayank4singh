@@ -1,4 +1,7 @@
-### Hi there 👋
+<div align="center">
+<img src="" height="200px" width="200px" />
+</div>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank Singh</h1>
 
 <!--
 **mayank4singh/mayank4singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

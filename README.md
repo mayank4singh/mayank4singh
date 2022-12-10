@@ -42,7 +42,8 @@
 | ![Mayank Singh](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4singh&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mayank Singh](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank4singh&theme=gruvbox)        |
 
 <!-- Contribution Graph-->
-[![Mayank Singh's github activity graph](https://activity-graph.herokuapp.com/graph?username=mayank4singh&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&hide_border=true)](https://github.com/mayank4singh)
+[![Mayank Singh's github activity graph](https://frantic-pullover-tuna.cyclic.app/graph?username=mayank4singh&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/mayank4singh)
+
   
   
 ***

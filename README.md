@@ -46,7 +46,8 @@
 
 [![Mayank Singh's github activity graph](https://frantic-pullover-tuna.cyclic.app/graph?username=mayank4singh&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/mayank4singh)
 
-  
+  **Visitor Count**
+ ![Visitor Count](https://profile-counter.glitch.me/{mayank4singh}/count.svg)
   
 ***
 

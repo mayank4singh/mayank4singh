@@ -19,7 +19,7 @@
 | ⚡ Database   | ![Mayank Singh](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)    |
 | 👩‍💻 IDE    | ![Mayank Singh](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Mayank Singh](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/AndroidStudio-4EA94B?style=for-the-badge&logo=AndroidStudio&logoColor=white) |
 | 📚 Education  | ![Mayank Singh](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) |
-| 📱 OS         | ![Mayank Singh](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) |
+| 📱 OS         | ![Mayank Singh](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/linux-fff?style=for-the-badge&logo=linux&logoColor=black)|
 | 📈 Version Control | ![Mayank Singh](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
 ## 📫 How to reach me
 
@@ -42,6 +42,8 @@
 | ![Mayank Singh](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4singh&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mayank Singh](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank4singh&theme=gruvbox)        |
 
 <!-- Contribution Graph-->
+![Aaahhhhhh !! My contribution grapgh is getting eaten... 😶](https://raw.githubusercontent.com/mayank4singh/mayank4singh/output/github-contribution-grid-snake.gif)
+
 [![Mayank Singh's github activity graph](https://frantic-pullover-tuna.cyclic.app/graph?username=mayank4singh&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/mayank4singh)
 
   

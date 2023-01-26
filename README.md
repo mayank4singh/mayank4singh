@@ -20,7 +20,7 @@
 | ⚡ Database   | ![Mayank Singh](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)    |
 | 🖍 Design     | ![Mayank Singh](https://img.shields.io/badge/Adobe%20XD-6A1B4D?style=for-the-badge&logo=Adobe%20XD&logoColor=E03B8B)
 | 👩‍💻 IDE    | ![Mayank Singh](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Mayank Singh](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/AndroidStudio-4EA94B?style=for-the-badge&logo=AndroidStudio&logoColor=white) |
-| 📚 Education  | ![Mayank Singh](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) |
+| 📚 Education  | ![Mayank Singh](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/masai-ffffff?style=for-the-badge&logo=masai&logoColor=white)|
 | 📱 OS         | ![Mayank Singh](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/linux-fff?style=for-the-badge&logo=linux&logoColor=black)|
 | 📈 Version Control | ![Mayank Singh](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
 ## 📫 How to reach me

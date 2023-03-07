@@ -49,7 +49,7 @@
   **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{mayank4singh}/count.svg)
  
- <!-- Contribution Graph-->
+ 
 Aaahhhhhh !! My contribution graph is getting eaten... 😶
  ---
 <p align="center">

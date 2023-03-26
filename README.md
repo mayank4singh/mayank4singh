@@ -13,7 +13,6 @@
 - ✨ Interested in exploring the possibilities of **Android Development**.
 - ⚡ Fun fact: I think I am good at cooking.
 ## 💻 Tech Stack 
-
 -Which I have worked with or just hands-on
 
 | Categories      | Tools / Skills |

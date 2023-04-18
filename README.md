@@ -8,7 +8,6 @@
 
 
 
-
 ## :man_technologist:About Me
 - 🌱 I’m currently learning Java and Android Studio.
 - 💬 Ask me about C, DSA, Java.

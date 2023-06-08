@@ -8,7 +8,8 @@
 
 ## :man_technologist:About Me
 - 🌱 I’m currently learning Java and Android Studio.
-- 💬 Ask me about C, DSA, Java.
+- 🔭 I’m currently working on Android projects.
+- 💬 Ask me about C, C++, DSA, Java.
 - ✨ Interested in exploring the possibilities of **Android Development**.
 - ⚡ Fun fact: I think I am good at cooking.
 ## 💻 Tech Stack 
@@ -44,8 +45,8 @@
 | ![Mayank Singh](https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4singh&layout=compact&theme=dark&langs_count=6&count_private=true&text_color=F5F3E4&title_color=F3CCAE)   | ![Mayank Singh](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayank4singh&theme=gruvbox)        |
 
 
-<!--[![Mayank Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayank4singh&theme=xcode)](https://github.com/mayank4singh/github-readme-activity-graph)
--->
+[![Mayank Singh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mayank4singh&theme=xcode)](https://github.com/mayank4singh/github-readme-activity-graph)
+
   **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{mayank4singh}/count.svg)
  

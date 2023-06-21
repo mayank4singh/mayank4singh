@@ -4,6 +4,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank Singh</h1>
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
 
+
 ## :man_technologist:About Me
 - 🌱 I’m currently learning Java and Android Studio.
 - 🔭 I’m currently working on Android projects.

@@ -5,6 +5,7 @@
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
 
 
+
 ## :man_technologist:About Me
 - 🌱 I’m currently learning Java and Android Studio.
 - 🔭 I’m currently working on Android projects.

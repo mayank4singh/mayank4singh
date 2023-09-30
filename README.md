@@ -2,7 +2,7 @@
 <img src="https://github.com/mayank4singh/mayank4singh/blob/main/gif4.gif?raw=true" width="400px" />
 </div>
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank Singh</h1>
-<h3 align="center">Currently, I am a student pursuing my Bachelor's Degree(BCA) from University of Allahabad.</h3>
+<h3 align="center">Currently, I am a student pursuing my Bachelor's Degree (BCA) from University of Allahabad.</h3>
 
 
 
@@ -16,12 +16,13 @@
 -Which I have worked with or just hands-on
 | Categories      | Tools / Skills |
 | ----------- | ----------- | 
-| 👩‍💻 Languages     | ![Mayank Singh](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=openjdk&logoColor=black)  ![Mayank Singh](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![Mayank Singh](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
-| ⚡ Database   | ![Mayank Singh](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=E8BD0D) ![Mayank Singh](https://img.shields.io/badge/firebase-ffffff?style=for-the-badge&logo=firebase&logoColor=E8BD0D) |
-| 🖍 Design     | ![Mayank Singh](https://img.shields.io/badge/Adobe%20XD-6A1B4D?style=for-the-badge&logo=Adobe%20XD&logoColor=E03B8B)
+| 👩‍💻 Languages     | ![Mayank Singh](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MayankSingh](	https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Mayank Singh](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![Mayank Singh](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ⚡ Database   | ![Mayank Singh](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)|
+| 🖍 Design     | ![Mayank Singh](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 | 👩‍💻 IDE    | ![Mayank Singh](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important) ![Mayank Singh](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/AndroidStudio-4EA94B?style=for-the-badge&logo=AndroidStudio&logoColor=white) |
-| 📚 Education  | ![Mayank Singh](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/masai-ffffff?style=for-the-badge&logo=masai&logoColor=white)|
-| 📱 OS         | ![Mayank Singh](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/linux-fff?style=for-the-badge&logo=linux&logoColor=black)|
+|📚 Frameworks, Platforms and Libraries| ![Mayank Singh](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+| 🎓 Education  | ![Mayank Singh](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/masai-ffffff?style=for-the-badge&logo=masai&logoColor=white)|
+| 📱 OS         | ![Mayank Singh](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
 | 📈 Version Control | ![Mayank Singh](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
 ## 📫 How to reach me
 

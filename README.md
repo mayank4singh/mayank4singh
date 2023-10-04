@@ -1,10 +1,9 @@
 <div align="center">
-<img src="https://github.com/mayank4singh/mayank4singh/blob/main/gif4.gif?raw=true" width="400px" />
+<img src="https://github.com/mayank4singh/mayank4singh/blob/main/gif4.gif?raw=true" width="400px" />  
 </div>
+
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank Singh</h1>
 <h3 align="center">Currently, I am a student pursuing my Bachelor's Degree (BCA) from University of Allahabad.</h3>
-
-
 
 ## :man_technologist:About Me
 - 🌱 I’m currently learning Java and Android Studio.

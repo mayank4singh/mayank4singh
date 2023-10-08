@@ -5,17 +5,17 @@
 
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mayank Singh</h1>
-<h3 align="center">Currently, I am a student pursuing my Bachelor's Degree (BCA) from University of Allahabad.</h3>
+<h3 align="center">Currently, I am a student pursuing my Bachelor's Degree (BCA) from the University of Allahabad.</h3>
 
 ## :man_technologist:About Me
-- 🌱 I’m currently learning Java and Android Studio.
+- 🌱 I’m currently learning Javascript and it's frameworks.
 - 🔭 I’m currently working on Android projects.
-- 💬 Ask me about C, C++, DSA, Java.
+- 💬 Ask me about Java, .Net/C#, HTML, CSS.
 - ✨ Interested in exploring the possibilities of **Android Development**.
 - ⚡ Fun fact: I think I am good at cooking.
 ## 💻 Tech Stack 
--Which I have worked with or just hands-on
-| Categories      | Tools / Skills |
+-which I have worked with or just hands-on
+| Categories      | Tools & Skills |
 | ----------- | ----------- | 
 | 👩‍💻 Languages     | ![Mayank Singh](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MayankSingh](	https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Mayank Singh](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![Mayank Singh](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | ⚡ Database   | ![Mayank Singh](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)|

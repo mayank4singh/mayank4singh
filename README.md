@@ -13,7 +13,7 @@
 - ⚡ Fun fact: I think I am good at cooking.
 ## 💻 Tech Stack 
 -which I have worked with or just hands-on
-| Categories      | Tools & Skills |
+| Categories      | Tools & Skills
 | ----------- | ----------- | 
 | 👩‍💻 Languages     | ![Mayank Singh](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MayankSingh](	https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![Mayank Singh](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   ![Mayank Singh](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | ⚡ Database   | ![Mayank Singh](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)|

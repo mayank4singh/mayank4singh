@@ -20,10 +20,11 @@
 | 🖍 Design     | ![Mayank Singh](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 | 👩‍💻 IDE    | ![Mayank Singh](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 |📚 Frameworks, Platforms and Libraries| ![Mayank Singh](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
-| 🎓 Education  | ![Mayank Singh](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/masai-ffffff?style=for-the-badge&logo=masai&logoColor=white)|
+| 🎓 Education  | ![Mayank Singh](https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/masai-ffffff?style=for-the-badge&logo=masai&logoColor=white) 
 | 📱 OS         | ![Mayank Singh](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/windows-3944F7?style=for-the-badge&logo=windows&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|
-| ☁️ Hosting/Saas| ![Mayank Singh](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+| ☁️ Hosting/Saas| ![Mayank Singh](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 | 📈 Version Control | ![Mayank Singh](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Mayank Singh](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  |
+| 📦 CI/CD |  ![Mayank Singh](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ## 📫 How to reach me
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mailatmausam@gmail.com)

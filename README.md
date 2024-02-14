@@ -53,14 +53,18 @@
  ![Visitor Count](https://profile-counter.glitch.me/{mayank4singh}/count.svg)
  
  
-<!-- Aaahhhhhh !! My contribution graph is getting eaten... 😶
+ Aaahhhhhh !! My contribution graph is getting eaten... 😶
  ---
-<p align="center">
-<img src="https://github.com/mayank4singh/mayank4singh/blob/output/github-contribution-grid-snake.svg">
-</p>
-  
+<!-- Github Snake Grid-->
+<a href="https://github.com/Platane/snk">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayank4singh/mayank4singh/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayank4singh/mayank4singh/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mayank4singh/mayank4singh/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</a>
 ***
-<!-- -->
+<!-- 
 
 
 

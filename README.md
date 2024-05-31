@@ -36,6 +36,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank4singh/)
 [![Instagram](https://img.shields.io/badge/Instagram-ea3991?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_thamayanksinghna_/)
+[![X](https://img.shields.io/badge/-161717?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mayank04singh)
+
   
 
 

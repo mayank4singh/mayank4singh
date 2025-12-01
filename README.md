@@ -52,7 +52,7 @@
 [![Mayank Singh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mayank4singh&theme=xcode&bg_color=010811&color=F3CCAE&line=F5F3E4&point=F26F2D&area=true&hide_border=true)](https://github.com/mayank4singh)
 
   **Visitor Count**
- ![Visitor Count](https://profile-counter.glitch.me/{mayank4singh}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/mayank4singh/count.svg)
  
  
  Aaahhhhhh !! My contribution graph is getting eaten... 😶
@@ -65,7 +65,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/mayank4singh/mayank4singh/output/github-contribution-grid-snake.svg"/>
   </picture>
 </a>
-***
+
 <!-- 
 
 

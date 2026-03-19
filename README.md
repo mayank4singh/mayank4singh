@@ -119,14 +119,15 @@ $ cat stack.json
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mayank4singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&icon_color=FF9900&text_color=c9d1d9&bg_color=0d1117" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4singh&layout=compact&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&text_color=c9d1d9&bg_color=0d1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mayank4singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&icon_color=FF9900&text_color=c9d1d9&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4singh&layout=compact&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&text_color=c9d1d9&bg_color=0d1117" height="165"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mayank4singh&theme=tokyonight&hide_border=true&background=0d1117&fire=FF9900&ring=7F52FF&stroke=7F52FF&currStreakLabel=FF9900&sideNums=c9d1d9&sideLabels=c9d1d9)](https://github.com/mayank4singh)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mayank4singh&theme=tokyonight&hide_border=true&background=0d1117&fire=FF9900&ring=7F52FF&stroke=7F52FF&currStreakLabel=FF9900&sideNums=c9d1d9&sideLabels=c9d1d9" height="165"/>
+<img src="https://counter.mayank4singh.me/count/mayank4singh" height="165"/>
 
 </div>
 

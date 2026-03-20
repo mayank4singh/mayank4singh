@@ -87,16 +87,18 @@ $ cat stack.json
 
 ```json
 {
-  "infrastructure" : ["AWS", "Terraform", "Nginx"],
-  "systems"        : ["Linux", "Bash", "Git"],
-  "containers_cicd": ["Docker", "Jenkins", "GitHub Actions"],
-  "languages"      : ["Python", "Java", "JavaScript"],
-  "automation"     : ["Boto3", "Selenium", "Playwright"],
-  "backend"        : ["Node.js", "REST APIs", "Firebase"],
-  "databases"      : ["MySQL", "PostgreSQL", "Supabase", "Firebase"],
-  "monitoring"     : ["Grafana"],
-  "mobile"         : ["Android SDK", "Jetpack Compose", "Flutter"],
-  "version_control": ["GitHub", "GitHub Pages"]
+  "infrastructure"  : ["AWS", "Terraform", "Nginx"],
+  "cloud_hosting"   : ["Render", "GitHub Pages"],
+  "systems"         : ["Linux", "Bash"],
+  "containers_cicd" : ["Docker", "Jenkins", "GitHub Actions"],
+  "languages"       : ["Python", "Java", "JavaScript"],
+  "automation"      : ["Boto3", "Selenium", "Playwright"],
+  "api_testing"     : ["Postman", "REST APIs"],
+  "backend"         : ["Node.js", "Firebase"],
+  "databases"       : ["MySQL", "PostgreSQL", "Supabase", "Firebase"],
+  "monitoring"      : ["Grafana"],
+  "version_control" : ["Git", "GitHub"],
+  "mobile"          : ["Android SDK", "Jetpack Compose", "Flutter"]
 }
 ```
 

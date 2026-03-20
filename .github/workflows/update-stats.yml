@@ -1,8 +1,8 @@
-name: Update Stats and Counter
+name: Update Stats
 
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,48 +12,34 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout
+        uses: actions/checkout@v4
 
-      - name: Fetch counter SVG
-        run: |
-          curl -s "https://counter.mayank4singh.me/count/mayank4singh" \
-            > profile/counter.svg
+      - name: Create profile folder
+        run: mkdir -p profile
 
       - name: Fetch stats SVG
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api?username=mayank4singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&icon_color=FF9900&text_color=c9d1d9&bg_color=0d1117" \
-            > profile/stats.svg
+          curl -f -s "https://github-readme-stats.vercel.app/api?username=mayank4singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&icon_color=FF9900&text_color=c9d1d9&bg_color=0d1117" \
+            -o profile/stats.svg
 
       - name: Fetch languages SVG
         run: |
-          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4singh&layout=compact&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&text_color=c9d1d9&bg_color=0d1117" \
-            > profile/langs.svg
+          curl -f -s "https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4singh&layout=compact&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&text_color=c9d1d9&bg_color=0d1117" \
+            -o profile/langs.svg
 
       - name: Fetch streak SVG
         run: |
-          curl -s "https://streak-stats.demolab.com/?user=mayank4singh&theme=tokyonight&hide_border=true&background=0d1117&fire=FF9900&ring=7F52FF&stroke=7F52FF&currStreakLabel=FF9900&sideNums=c9d1d9&sideLabels=c9d1d9" \
-            > profile/streak.svg
+          curl -f -s "https://streak-stats.demolab.com/?user=mayank4singh&theme=tokyonight&hide_border=true&background=0d1117&fire=FF9900&ring=7F52FF&stroke=7F52FF&currStreakLabel=FF9900&sideNums=c9d1d9&sideLabels=c9d1d9" \
+            -o profile/streak.svg
 
-      - name: Verify SVGs were fetched
-        run: |
-          echo "=== File sizes ==="
-          ls -la profile/
-          echo "=== Checking for empty files ==="
-          for f in profile/*.svg; do
-            if [ ! -s "$f" ]; then
-              echo "ERROR: $f is empty"
-              exit 1
-            else
-              echo "OK: $f ($(wc -c < $f) bytes)"
-            fi
-          done
+      - name: Check files
+        run: ls -la profile/
 
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/
-          git diff --staged --quiet || git commit -m "chore: update stats and counter"
+          git diff --staged --quiet || git commit -m "chore: update stats"
           git push

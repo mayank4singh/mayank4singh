@@ -1,0 +1,40 @@
+name: Update Stats and Counter
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch counter SVG
+        run: |
+          curl -s "https://counter.mayank4singh.me/count/mayank4singh" \
+            > profile/counter.svg
+
+      - name: Fetch stats SVG
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api?username=mayank4singh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&icon_color=FF9900&text_color=c9d1d9&bg_color=0d1117" \
+            > profile/stats.svg
+
+      - name: Fetch languages SVG
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=mayank4singh&layout=compact&theme=tokyonight&hide_border=true&count_private=true&title_color=7F52FF&text_color=c9d1d9&bg_color=0d1117" \
+            > profile/langs.svg
+
+      - name: Fetch streak SVG
+        run: |
+          curl -s "https://streak-stats.demolab.com/?user=mayank4singh&theme=tokyonight&hide_border=true&background=0d1117&fire=FF9900&ring=7F52FF&stroke=7F52FF&currStreakLabel=FF9900&sideNums=c9d1d9&sideLabels=c9d1d9" \
+            > profile/streak.svg
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/
+          git commit -m "chore: update stats and counter" || exit 0
+          git push

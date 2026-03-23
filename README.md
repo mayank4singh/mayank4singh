@@ -1,10 +1,3 @@
-<div align="center">
-
-![Header](./gif4.gif)
-
-</div>
-
----
 
 ```bash
 $ whoami

@@ -5,7 +5,7 @@ $ whoami
 
 ```
 Mayank Singh — MCA'26
-Cloud & DevOps Engineer · Android Developer
+Cloud · AI Systems · DevSecOps Automation
 Building reliable infrastructure and shipping clean software.
 ```
 
@@ -15,39 +15,56 @@ Building reliable infrastructure and shipping clean software.
 $ man mayank
 ```
 
-```
+```text
 NAME
-       mayank-singh — cloud & devops engineer, android developer
+       mayank-singh — cloud, devsecops, ai, android
 
 SYNOPSIS
-       mayank [--build] [--deploy] [--automate] [--ship]
+       mayank [--build] [--deploy] [--automate] [--orchestrate] [--ship]
 
 DESCRIPTION
-       An engineer who started with Android and moved into cloud
-       infrastructure. Writes code that runs on devices and builds
-       systems that keep it running in production.
+       Started with Android and gradually moved into cloud,
+       infrastructure automation and AI-driven systems.
+
+       Writes code that runs on devices and builds the
+       infrastructure that keeps it running in production.
 
        Comfortable in the terminal. Thinks in pipelines.
-       Ships things that work.
+       Ships systems that work.
 
-       · Designs and deploys containerized workloads on AWS
-         using Docker, ECS and CloudFormation.
+       · Builds cloud-native systems on AWS using Lambda,
+         Docker, ECS and CloudFormation.
+
+       · Develops asynchronous event-driven architectures
+         using serverless workflows.
+
+       · Builds multi-agent AI workflows using LangGraph,
+         LangChain and Amazon Bedrock.
+
+       · Exploring Retrieval Augmented Generation (RAG),
+         vector search and repository-aware AI systems
+         using ChromaDB.
+
+       · Automates infrastructure and workflows using
+         Python, Boto3, shell scripts and cloud tooling.
 
        · Builds CI/CD pipelines that take code from a git push
-         to a live environment without manual intervention.
+         to a live deployment without manual intervention.
 
-       · Automates infrastructure and workflows with Python,
-         Boto3 and shell scripts.
+       · Background in Android — Java, Kotlin,
+         Jetpack Compose — which means the software
+         and the infrastructure were both built by
+         the same hands.
 
-       · Background in Android — Java, Kotlin, Jetpack Compose —
-         which means the code running on the infrastructure
-         was also written by the same hands.
+       · Interested in scalable systems, DevSecOps,
+         cloud infrastructure and intelligent automation.
 
 OPTIONS
-       --build       Android apps, Docker images, cloud stacks
-       --deploy      AWS ECS, CloudFormation, Jenkins CI/CD
-       --automate    Boto3, Playwright, Selenium, shell scripts
-       --ship        commits, pushes, pipelines, done
+       --build         Android apps, Docker images, cloud stacks
+       --deploy        AWS Lambda, ECS, CloudFormation, CI/CD
+       --automate      Boto3, Playwright, Selenium, shell scripts
+       --orchestrate   LangGraph, LangChain, multi-agent workflows
+       --ship          commits, pushes, pipelines, done
 
 EXIT STATUS
        Always 0. Gets things done.
@@ -59,17 +76,32 @@ EXIT STATUS
 $ cat about.me
 ```
 
-```
-I work at the intersection of software engineering and cloud infrastructure.
+```text
+I work at the intersection of cloud infrastructure,
+automation and intelligent systems.
 
-My foundation is in Android development — building production apps with
-Java, Kotlin and Jetpack Compose. I am now focused on the infrastructure
-side: automating deployments, containerizing workloads, and designing
-systems that scale without breaking.
+My foundation started with Android development —
+building applications using Java, Kotlin and
+Jetpack Compose. Over time, my focus shifted
+towards infrastructure, DevSecOps and building
+systems that scale reliably in production.
 
-Outside of tech — I read a lot. Geopolitics, history, books about
-extraordinary things humans have pulled off. I play cricket. And I am
-learning to ride horses, because why not.
+Lately, I have been exploring multi-agent AI systems,
+LangGraph orchestration, Retrieval Augmented
+Generation (RAG) and AI-driven automation workflows.
+
+I enjoy building things that feel operational:
+event-driven architectures, CI/CD pipelines,
+serverless systems and workflows that remove
+manual bottlenecks.
+
+Outside of tech — I read a lot.
+Geopolitics, history, engineering stories and books
+about ambitious systems people managed to build.
+
+I play cricket.
+And I am learning horse riding because some skills
+do not belong behind a screen.
 ```
 
 ---
@@ -81,17 +113,18 @@ $ cat stack.json
 ```json
 {
   "infrastructure"  : ["AWS", "Terraform", "Nginx"],
-  "cloud_hosting"   : ["Render", "GitHub Pages"],
   "systems"         : ["Linux", "Bash"],
   "containers_cicd" : ["Docker", "Jenkins", "GitHub Actions"],
   "languages"       : ["Python", "Java", "JavaScript"],
   "automation"      : ["Boto3", "Selenium", "Playwright"],
-  "api_testing"     : ["Postman", "REST APIs"],
+  "ai_orchestration": ["LangGraph", "LangChain"],
+  "llm_platforms"   : ["Amazon Bedrock"],
+  "rag"             : ["ChromaDB", "Vector Search"],
   "backend"         : ["Node.js", "Firebase"],
-  "databases"       : ["MySQL", "PostgreSQL", "Supabase", "Firebase"],
+  "databases"       : ["MySQL", "PostgreSQL", "Supabase"],
   "monitoring"      : ["Grafana"],
-  "version_control" : ["Git", "GitHub"],
-  "mobile"          : ["Android SDK", "Jetpack Compose", "Flutter"]
+  "version_control" : ["Git", "GitHub", "Gitlab"],
+  "mobile"          : ["Android SDK", "Jetpack Compose"]
 }
 ```
 

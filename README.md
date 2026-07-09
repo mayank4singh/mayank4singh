@@ -4,7 +4,7 @@ $ whoami
 ```
 
 ```
-Mayank Singh — MCA'26
+Mayank Singh 
 Cloud · AI Systems · DevSecOps Automation
 Building reliable infrastructure and shipping clean software.
 ```
